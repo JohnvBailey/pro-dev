@@ -27,4 +27,4 @@ why: I want to contribute to esport
 How: Coding Tech skills
 what: Content creator, Video game developer....
 
-		My name is John Bailey, I would like to make a contribution to the esports scene. Using my coding skills and tech knowledge.
+		

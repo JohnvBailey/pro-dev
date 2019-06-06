@@ -23,8 +23,13 @@ Qualitive
 I am looking to create comedy gameplay videos for youtube.
 
 
-why: I want to contribute to esport
-How: Coding Tech skills
-what: Content creator, Video game developer....
+why: 
+I want to contribute to esport
+
+How:
+Coding Tech skills
+
+what:
+Content creator, Video game developer....
 
 		
